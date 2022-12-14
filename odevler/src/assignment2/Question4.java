@@ -15,6 +15,8 @@ public static void main(String[] args) {
 		  
 		  System.out.println(saatDeger+ "\tSaat\t" + saniyeDeger + "\tSaniyedir");
 
+			scan.close();
+
 }
 	
 }

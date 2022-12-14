@@ -17,6 +17,7 @@ public class Question3 {
 		
 			System.out.println(milDeger + "mil\t" + "esittir\t" + kmDeger + "Kilometre");
 			
+			scan.close();
 
 		}
 }

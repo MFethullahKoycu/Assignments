@@ -14,5 +14,8 @@ public class Question6 {
 		
 		System.out.println(uzunKenarDegeri * kisaKenarDegeri * yukseklikDegeri + " = " + " hacim");
 		
+		
+		scan.close();
+
 	}
 }

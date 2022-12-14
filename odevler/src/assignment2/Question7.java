@@ -16,6 +16,7 @@ public class Question7 {
 		
 		System.out.println("isim: " + isim + "\nsoyisim: " + soyIsim + "\nKursumuza katiliminiz alinmistir, tesekkur ederiz " );
 		
+		scan.close();
 
 	
 	}
