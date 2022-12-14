@@ -9,7 +9,7 @@ public class Question3 {
 		
 		System.out.println("herhangi bir gun isminin sadece bas harfini giriniz lutfen ");
 		
-		String input1 = scan.nextLine();
+		String input2 = scan.nextLine();
 		
 		
 	}
