@@ -9,9 +9,28 @@ public class Question3 {
 		
 		System.out.println("herhangi bir gun isminin sadece bas harfini giriniz lutfen ");
 		
-		String input3344 = scan.nextLine();
-		System.out.println("dfdsgsdg");
+		String input1 = scan.nextLine();
 		
+		
+		switch (input1) {
+		case "p":
+			
+			System.out.println("Pazar, Pazartesi veya Persembe ");
+			break;
+		
+		case "s":
+			
+			System.out.println("Sali ");
+			break;
+		
+		case "c":
+			
+			System.out.println("Carsamba, Cuma veya Cumartesi ");
+			break;
+			
+			default:
+				System.out.println("gecersiz harf girdiniz");
+		}
 		
 	}
 

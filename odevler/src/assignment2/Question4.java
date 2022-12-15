@@ -11,7 +11,7 @@ public static void main(String[] args) {
 		  System.out.println("Lutfen bir \'Saat degeri\' degeri giriniz.");
 	       
 		  long saatDeger = scan.nextLong();
-		  long saniyeDeger = saatDeger * 36;
+		  long saniyeDeger = saatDeger * 60 * 60;
 		  
 		  System.out.println(saatDeger+ "\tSaat\t" + saniyeDeger + "\tSaniyedir");
 
