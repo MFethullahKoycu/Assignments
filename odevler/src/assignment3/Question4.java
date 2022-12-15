@@ -27,7 +27,7 @@ public class Question4 {
 				
 				break;
 				
-			case "Pazar":
+			case "pazar":
 				
 				System.out.println("Hristiyanlar icin kutsal gun ");
 				
